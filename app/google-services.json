@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "650693125159",
+    "firebase_url": "https://amst-exam-2-default-rtdb.firebaseio.com",
+    "project_id": "amst-exam-2",
+    "storage_bucket": "amst-exam-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650693125159:android:7970b9c0e2a4cbb9379a02",
+        "android_client_info": {
+          "package_name": "com.example.amstdetectorfuego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650693125159-traj9t3d03pt37tv5f2p8ooucso61luo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amstdetectorfuego",
+            "certificate_hash": "f52384980253b79c9c5ecda6547c8d25b95f4c98"
+          }
+        },
+        {
+          "client_id": "650693125159-7jhrg5dmv3e81jpoelrijh3jfv34p1vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUFFZ-gO5BYzIwWWe0QE0apBGw3PX3fQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650693125159-7jhrg5dmv3e81jpoelrijh3jfv34p1vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
